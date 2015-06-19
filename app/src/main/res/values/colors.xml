@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryColorDark">#0D47A1</color>
+    <color name="windowColor">#ffececec</color>
+    <color name="accentColor">#FF9800</color>
+    <color name="textColor">#dc000000</color>
+    <color name="appName">#dd000000</color>
+    <color name="gray">#ffd4d4d4</color>
+    <color name="transparent">#0000</color>
+    <color name="color_item">#ffffffff</color>
+    <color name="gray1">#ffececec</color>
+    <color name="gray2">#ffe7e7e7</color>
+    <color name="gray3">#ffe2e2e2</color>
+    <color name="gray4">#ffdddddd</color>
+    <color name="gray5">#ffd8d8d8</color>
+    <color name="gray6">#ffd3d3d3</color>
+</resources>

@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/windowColor"
+    tools:context="com.example.dell.materialtest.NavigationDrawerFragment"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="@dimen/logo"
+            android:layout_height="@dimen/logo"
+            android:layout_marginTop="@dimen/drawer_space"
+            android:layout_marginBottom="@dimen/drawer_space"
+            android:id="@+id/avatar"
+            android:background="@color/gray"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/appName"
+            android:layout_height="@dimen/drawer_subtitle"
+            android:layout_marginBottom="@dimen/drawer_space"
+            android:layout_marginLeft="@dimen/drawer_listview_horizontal_margin"
+            android:text="Watch Air Algiers"
+            android:textColor="@color/appName"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:background="@color/gray"
+            android:textAlignment="center"/>
+
+        </LinearLayout>
+
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"/>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/drawer_listview_horizontal_margin"
+        android:layout_marginRight="@dimen/drawer_listview_horizontal_margin"
+        android:layout_marginTop="@dimen/drawer_space"
+        android:divider="#0000"
+        android:dividerHeight="15dp"
+        >
+
+    </ListView>
+
+
+</LinearLayout>
