@@ -1,0 +1,6 @@
+D:\Workspaces\AndroidStudio's_workspace\MaterialTest\app\build\intermediates\classes\debug
+D:\Workspaces\AndroidStudio's_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1d0de5be7ebadf896eb6f9989edf810a4332ce44.jar
+D:\Workspaces\AndroidStudio's_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\classes-84d037338ca24dd1d5bbd0d36d523d7e9fae2fa1.jar
+D:\Workspaces\AndroidStudio's_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3f30274a8a273a25ba5c4b1c713c51eabde3ccb2.jar
+D:\Workspaces\AndroidStudio's_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\classes-b0a976c935795b96068e4297e553f6e7f8a6544b.jar
+D:\Workspaces\AndroidStudio's_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\classes-fbce49cdfea6b09220afbc5c3a2b47c0cc0aeb7d.jar
