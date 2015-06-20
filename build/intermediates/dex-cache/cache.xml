@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3f30274a8a273a25ba5c4b1c713c51eabde3ccb2.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\classes-fbce49cdfea6b09220afbc5c3a2b47c0cc0aeb7d.jar" />
+    </item>
+    <item
+        jar="D:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1d0de5be7ebadf896eb6f9989edf810a4332ce44.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\classes-b0a976c935795b96068e4297e553f6e7f8a6544b.jar" />
+    </item>
+    <item
+        jar="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="D:\Workspaces\AndroidStudio&apos;s_workspace\MaterialTest\app\build\intermediates\pre-dexed\debug\classes-84d037338ca24dd1d5bbd0d36d523d7e9fae2fa1.jar" />
+    </item>
+
+</items>
